@@ -1,0 +1,16 @@
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\ExercicioFixacaoComp\ExercicioFixacaoComp\obj\Debug\net5.0\ExercicioFixacaoComp.csproj.AssemblyReference.cache
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\ExercicioFixacaoComp\ExercicioFixacaoComp\obj\Debug\net5.0\ExercicioFixacaoComp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\ExercicioFixacaoComp\ExercicioFixacaoComp\obj\Debug\net5.0\ExercicioFixacaoComp.AssemblyInfoInputs.cache
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\ExercicioFixacaoComp\ExercicioFixacaoComp\obj\Debug\net5.0\ExercicioFixacaoComp.AssemblyInfo.cs
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\ExercicioFixacaoComp\ExercicioFixacaoComp\obj\Debug\net5.0\ExercicioFixacaoComp.csproj.CoreCompileInputs.cache
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\ExercicioFixacaoComp\ExercicioFixacaoComp\bin\Debug\net5.0\ExercicioFixacaoComp.exe
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\ExercicioFixacaoComp\ExercicioFixacaoComp\bin\Debug\net5.0\ExercicioFixacaoComp.deps.json
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\ExercicioFixacaoComp\ExercicioFixacaoComp\bin\Debug\net5.0\ExercicioFixacaoComp.runtimeconfig.json
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\ExercicioFixacaoComp\ExercicioFixacaoComp\bin\Debug\net5.0\ExercicioFixacaoComp.runtimeconfig.dev.json
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\ExercicioFixacaoComp\ExercicioFixacaoComp\bin\Debug\net5.0\ExercicioFixacaoComp.dll
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\ExercicioFixacaoComp\ExercicioFixacaoComp\bin\Debug\net5.0\ref\ExercicioFixacaoComp.dll
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\ExercicioFixacaoComp\ExercicioFixacaoComp\bin\Debug\net5.0\ExercicioFixacaoComp.pdb
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\ExercicioFixacaoComp\ExercicioFixacaoComp\obj\Debug\net5.0\ExercicioFixacaoComp.dll
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\ExercicioFixacaoComp\ExercicioFixacaoComp\obj\Debug\net5.0\ref\ExercicioFixacaoComp.dll
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\ExercicioFixacaoComp\ExercicioFixacaoComp\obj\Debug\net5.0\ExercicioFixacaoComp.pdb
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\ExercicioFixacaoComp\ExercicioFixacaoComp\obj\Debug\net5.0\ExercicioFixacaoComp.genruntimeconfig.cache

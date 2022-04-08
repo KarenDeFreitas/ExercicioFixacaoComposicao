@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L4vA37ivekaLj/qso44rdJBv3s465sZygJBifgWZ0XfhjCzRCl5GA07MliMTGkM7Ky6RnUL7lEzNLVGxi7G5Bg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Paroquia_Sao_Filipe_\\Documents\\DOCUMENTOS\\KAREN\\Curso c#\\ExercicioFixacaoComp\\ExercicioFixacaoComp\\ExercicioFixacaoComp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Paroquia_Sao_Filipe_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
